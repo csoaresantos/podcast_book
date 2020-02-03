@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A0BE3405-27F1-4AA7-B908-3B02645624FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/BlogController.cs">
+    <Files>
+      <File FileName="Controllers/BlogController.cs" Line="26" Column="1" />
+      <File FileName="Infra/AppDatabase.cs" Line="10" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="podcast_book" expanded="True">
+            <Node name="podcast_book" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BlogController.cs" selected="True" />
+              </Node>
+              <Node name="Infra" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.podcast__book PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
